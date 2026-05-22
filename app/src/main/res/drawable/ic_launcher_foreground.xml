@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer concentric NFC scanning arch wave 3 -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#22D3EE"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M 34,32 A 26,26 0 0,1 74,32" />
+
+    <!-- Mid concentric NFC scanning arch wave 2 -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#06B6D4"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M 42,40 A 15,15 0 0,1 66,40" />
+
+    <!-- Core signal beacon / Transmitter center point -->
+    <path
+        android:fillColor="#06B6D4"
+        android:pathData="M 54,48 m -5,0 a 5,5 0 1,1 10,0 a 5,5 0 1,1 -10,0" />
+
+    <!-- A sleek digital tag scanning on top -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#3B82F6"
+        android:strokeWidth="3.5"
+        android:strokeLineJoin="round"
+        android:pathData="M 38,62 L 70,62 L 70,82 L 38,82 Z" />
+        
+    <!-- Sleek inner RFID tag chip illustration -->
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M 48,68 L 60,68 L 60,76 L 48,76 Z" />
+</vector>

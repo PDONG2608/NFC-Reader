@@ -1,0 +1,6 @@
+{
+  "name": "NFC Log",
+  "description": "Ứng dụng quét và lưu nhật ký thẻ NFC: theo dõi thời gian, mã định danh thẻ UID, công nghệ hỗ trợ và thông tin dữ liệu chi tiết.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
